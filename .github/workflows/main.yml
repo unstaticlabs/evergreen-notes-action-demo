@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build
-        uses: unstaticlabs/evergreen-notes-action
+        uses: unstaticlabs/evergreen-notes-action@v0.0.1
           
       - name: Install SSH Client 🔑
         uses: webfactory/ssh-agent@v0.5.1
