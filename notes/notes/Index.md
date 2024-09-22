@@ -1,3 +1,0 @@
-# Index
-
-my first note
